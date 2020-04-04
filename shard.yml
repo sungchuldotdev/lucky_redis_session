@@ -1,0 +1,14 @@
+name: lucky_redis_session
+version: 0.1.0
+
+authors:
+  - Sung-Chul Lee <lee@sungchul.dev>
+
+crystal: 0.33.0
+
+license: MIT
+
+dependencies:
+  redis:
+    github: stefanwille/crystal-redis
+    version: ~> 2.5.3
